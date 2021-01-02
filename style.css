@@ -1,0 +1,14 @@
+.header {
+                    color: rgb(247, 238, 238);
+                    background-color: #283593;
+}
+
+.photos img {
+                    width: 100%;
+}
+
+.photos {
+                    display: grid;
+                    grid-template-columns: 1fr 1fr 1fr;
+                    grid-column-gap: 20px;
+}
